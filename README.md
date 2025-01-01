@@ -14,7 +14,7 @@ In this project, our team developed a version of the classic Snake game using Ja
 - Purpose and Usage
 - This game offers a modern take on the classic Snake game, designed to be fun for both new and seasoned players. It is playable as a standalone Java application, packaged into a JAR file for ease of use.
 
-##List of Contributors
+## List of Contributors
  - Carina Leite - GitHub
 - Francisco Simões - GitHub
 - Patrícia Soares - GitHub
